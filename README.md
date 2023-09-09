@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+Creating a JS React Admin Dashboard for study purpose
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
